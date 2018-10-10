@@ -32,6 +32,10 @@
   text-align:left;
 }
 .paragraph {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#333333;
   text-align:left;
 }
 .line {
